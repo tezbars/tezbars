@@ -1,1 +1,10 @@
-<h2>⚪ Introduction</h2><h4>Hello! I'm Tezbars, a 16-year-old Frontend Developer and Graphic Designer. I’m passionate about creating visually appealing and user-friendly web experiences. Feel free to explore my portfolio and public repositories to see my work. If you'd like to get in touch, you can reach me via <a href='https://discord.com/users/633931648190251019'>Discord</a>.</h4><h2>⚪ Languages</h2><p><img src='https://img.shields.io/badge/html-ffffff?style=for-the-badge&logo=html5&logoColor=101010'/> <img src='https://img.shields.io/badge/css-ffffff?style=for-the-badge&logo=css3&logoColor=101010'/> <img src='https://img.shields.io/badge/javascript-ffffff?style=for-the-badge&logo=javascript&logoColor=101010'/> <img src='https://img.shields.io/badge/lua-ffffff?style=for-the-badge&logo=lua&logoColor=101010'/></p><h2>⚪ Stats</h2><img src='https://github-readme-stats.vercel.app/api?username=tezbars&show_icons=true&title_color=101010&text_color=101010&icon_color=101010&bg_color=ffffff&border_radius=0'/>
+<h1>tez</h1>
+
+<h3>Languages</h3><p>
+  <img src='https://img.shields.io/badge/html-ffaaf9?style=for-the-badge&logo=html5&logoColor=101010'/> 
+  <img src='https://img.shields.io/badge/css-ffaaf9?style=for-the-badge&logo=css3&logoColor=101010'/> 
+  <img src='https://img.shields.io/badge/javascript-ffaaf9?style=for-the-badge&logo=javascript&logoColor=101010'/> 
+  <img src='https://img.shields.io/badge/lua-ffaaf9?style=for-the-badge&logo=lua&logoColor=101010'/></p>
+  
+<h3>Stats</h2>
+<img src='https://github-readme-stats.vercel.app/api?username=tezbars&show_icons=true&title_color=101010&text_color=101010&icon_color=101010&bg_color=ffaaf9&border_radius=0'/>
